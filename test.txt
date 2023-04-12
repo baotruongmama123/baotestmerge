@@ -1,1 +1,1 @@
-Đây là file test của test
+Đây là file test của test và của main
