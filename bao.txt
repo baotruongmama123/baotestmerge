@@ -2,4 +2,9 @@
 kakaka
 aohehe
 bao sai roif
+<<<<<<< Updated upstream
+=======
+kkk
+hohoho
+>>>>>>> Stashed changes
 saio nhu nao
