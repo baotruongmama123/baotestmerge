@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gfadgadfdfaga
 kakaka
 aohehe
@@ -7,4 +8,11 @@ bao sai roif
 kkk
 hohoho
 >>>>>>> Stashed changes
+=======
+fasdfaafdsdf
+kakaka
+aohehedfsadsfdfs
+bao sai roif
+hohoho
+>>>>>>> test
 saio nhu nao
